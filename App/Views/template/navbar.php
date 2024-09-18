@@ -11,6 +11,7 @@
         <ul>
           <li><a href="/" class="active">Inicio</a></li>
           <li><a href="sobre">Sobre</a></li>
+          <li><a href="login">login</a></li>
           <li><a href="single-post.html">Single Post</a></li>
           <li class="dropdown"><a href="#"><span>Categories</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
